@@ -1,0 +1,36 @@
+#########################################################################################
+# Python script to prepare benchmark dataset Levine_32dim
+#
+# This is a 32-dimensional mass cytometry (CyTOF) dataset consisting of expression
+# levels of 32 surface marker proteins. Cluster labels are available for 14 manually
+# gated cell populations. Cells are healthy human bone marrow mononuclear cells (BMMCs),
+# from 2 individuals.
+#
+# This Python script pre-processes the dataset, adds manually gated cell population labels,
+# and exports it in .txt and .csv formats.
+#
+# Source: "benchmark dataset 2" in the following paper:
+# Levine et al. (2015), "Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like
+# Cells that Correlate with Prognosis", Cell, 162, 184-197.
+#
+# Link to paper: http://www.sciencedirect.com/science/article/pii/S0092867415006376
+#########################################################################################
+
+#Import packages
+**Scikit-learn**
+pip install scikit-learn
+
+**TensorFlow**
+pip install tensorflow
+
+**NumPy**
+pip install numpy
+
+**Pandas**
+pip install pandas
+
+**Matplotlib**
+pip install matplotlib
+
+**Seaborn**
+pip install seaborn
