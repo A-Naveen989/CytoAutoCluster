@@ -1,7 +1,4 @@
 # 🚀 CytoAutoCluster: Revolutionizing Cytometry with Deep Learning 📊🔬
-
-### Contributed by: **Naveen**
-
 ---
 
 ## 🌟 Project Overview
