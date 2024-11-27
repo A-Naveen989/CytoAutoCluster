@@ -110,7 +110,7 @@ Getting started with **CytoAutoCluster** is easy:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AniruddhJoshi/CytoAutoCluster.git
+   (https://github.com/A-Naveen989/CytoAutoCluster/tree/main)
 **📜 References**
 Levine, J.H., et al.
 Data-Driven Phenotypic Dissection of AML
